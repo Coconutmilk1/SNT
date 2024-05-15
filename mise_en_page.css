@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "I love Glitter";
+    src: url(polices/I\ Love\ Glitter\ -\ OTF.otf) format('opentype');
+    font-weight: normal;
+    font-size: normal;
+}
+
+body
+    {
+        background-image:
+        url("https://www.autourduncafe.fr/wp-content/uploads/2020/03/autour-duncafe-black-and-gray-microphone-164829-e1583494959809.jpg");
+        background-size: 100%, cover;
+    }
+h1
+    {
+        text-align: center ;
+        color: aliceblue;
+    }
+h4
+    {
+    text-align: center ;
+    text-decoration: underline dotted;
+    color: aliceblue;
+    }
+h3
+   {
+      color: rgb(113, 185, 248);
+   }
+li
+   {
+    text-align: center ;
+    list-style: none;
+    color: aliceblue;
+   }
+p
+   {
+    text-align: center ;
+    color: rgb(231, 117, 244);
+   }
+button
+   {
+    background-color: rgb(160, 99, 244);
+   }
+a
+    {
+        color: rgb(103, 101, 238) ;
+        font-family: "I Love Glitter", sans-serif;
+    }
+
+.legende
+    {
+        text-align: center;
+        color: aliceblue;
+    }
+
+#photo_intro
+    {
+        width: 300px ;
+    }
+
+#photo_tonneau
+    {
+        width: 300px ;
+    }
+
+.LF
+    {
+        text-align: center;
+        color: aliceblue;
+    }
